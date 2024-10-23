@@ -1,5 +1,9 @@
 # Bunk Mate
-Many of us have desired to take a day off from college for various activities or simply to relax, but often refrain due to concerns about meeting the attendance requirement percentage. The Bunk Mate app/website aims to address this dilemma by providing a convenient solution for tracking classes attended and offering live updates on the remaining classes needed to meet the attendance target.
+Many of us have desired to take a day off from college for various activities or simply to relax, but often refrain due to concerns about meeting the attendance requirement percentage. 
+
+The Bunk Mate platform to address this dilemma by providing a means for tracking how many classes you can bunk in a semester as well as providing live attendance percentages. Visit [bunkmate.college](https://www.bunkmate.college/) for the web version or download the [apk](https://github.com/Bunk-Mate/Mobile-App/releases) for the mobile app.
+
+Note that we are not responsible for any classes that you may fail caused due to this app ;)
 
 ## Repositories
 | Repository  | Author | Description | 
