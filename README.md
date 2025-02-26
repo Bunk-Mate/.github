@@ -1,13 +1,13 @@
 # Bunk Mate
-Many of us have desired to take a day off from college for various activities or simply to relax, but often refrain due to concerns about meeting the attendance requirement percentage. 
+Many of us have desired to take a day off from college for various activities or simply to relax, but often refrain due to concerns about meeting the attendance requirement. 
 
-The Bunk Mate platform to address this dilemma by providing a means for tracking how many classes you can bunk in a semester as well as providing live attendance percentages. Visit [bunkmate.college](https://www.bunkmate.college/) for the web version or download the [apk](https://github.com/Bunk-Mate/Mobile-App/releases) for the mobile app.
+The Bunk Mate platform was made to address this dilemma by providing a means for tracking your attendance and showing a calculation of how many classes you can bunk in a semester. Visit [www.bunkmate.college](https://www.bunkmate.college/) for the web version or get the mobile app from the [playstore](https://play.google.com/store/apps/details?id=college.bunkmate).
 
-Note that we are not responsible for any classes that you may fail caused due to this app ;)
+Note that we are not responsible for any classes that you may fail due to this app ;)
 
 ## Repositories
 | Repository  | Author | Description | 
 | ------------- | -------------- |------------ |
-| [Backend](https://github.com/Bunk-Mate/backend)  |[Hridesh MG](https://github.com/hrideshmg)|Built with Django Rest Framework  |
-| [Mobile App](https://github.com/Bunk-Mate/Mobile-App)  | [Gautham Mohanraj](https://github.com/angrezichatterbox) | Built with flutter  |
-| [Website](https://github.com/Bunk-Mate/Website)  | [Aman VS](https://github.com/amansxcalibur) |Built with React  |
+| [Backend](https://github.com/Bunk-Mate/backend)  |[Hridesh MG](https://github.com/hrideshmg)| Common backend built with [DRF](https://www.django-rest-framework.org/)  |
+| [Mobile App](https://github.com/Bunk-Mate/Mobile-App)  | [Gautham Mohanraj](https://github.com/angrezichatterbox) | Built with Flutter  |
+| [Website](https://github.com/Bunk-Mate/Website)  | [Aman VS](https://github.com/amansxcalibur) |Built with NextJS  |
