@@ -5,6 +5,8 @@ The Bunk Mate platform was made to address this dilemma by providing a means for
 
 Note that we are not responsible for any classes that you may fail due to this app ;)
 
+P.S: All of our code is open source, feel free to contribute!
+
 ## Repositories
 | Repository  | Author | Description | 
 | ------------- | -------------- |------------ |
